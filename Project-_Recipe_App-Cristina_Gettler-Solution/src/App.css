@@ -78,11 +78,12 @@ th:nth-child(1), th:nth-child(2), th:nth-child(3), th:nth-child(6) {
 
 /* Column size for tbody */
 
-tr:nth-child(odd) {
+ tr:nth-child(odd) {
   background-color: #fff0c7;
 }
 
 /* Form */
 form td:nth-child(1), td:nth-child(2), td:nth-child(3), td:nth-child(6) {
   width:10%;
+} */
 }
